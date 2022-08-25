@@ -10,6 +10,6 @@ public class UserRest {
 
     @GetMapping(path="/detail")
     public String fun(){
-        return "first commit";
+        return "Successfuly deploye";
     }
 }
